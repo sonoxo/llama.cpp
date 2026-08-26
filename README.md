@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Sonoxo fork status — upstream project**
+>
+> This repository is a Sonoxo-owned fork used for compatibility and integration experiments. The original project is maintained by [ggml-org contributors](https://github.com/ggml-org/llama.cpp); its branding, documentation, licenses, releases, and support channels remain upstream. Sonoxo does **not** claim authorship, official affiliation, endorsement, or that this fork is currently synchronized, tested, or production-ready. Check the [canonical repository](https://github.com/ggml-org/llama.cpp) before installing or contributing.
+
+---
+
 # llama.cpp
 
 ![llama](https://raw.githubusercontent.com/ggml-org/llama.brand/refs/heads/master/cover/llama-cpp/cover-llama-cpp-dark.svg)
